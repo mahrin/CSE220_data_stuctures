@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RecursionExamples03LinkedList
+comment1.params=elem
+comment1.target=Node(int)
+comment10.params=temp
+comment10.target=int\ find_min_recursive(Node)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=Node\ arr2LL_iterative(int[])
+comment3.params=arr\ index
+comment3.target=Node\ arr2LL_recursive(int[],\ int)
+comment4.params=head
+comment4.target=void\ printLL_iterative(Node)
+comment5.params=temp
+comment5.target=void\ printForward_recursive(Node)
+comment6.params=temp
+comment6.target=void\ printBackward_recursive(Node)
+comment7.params=head
+comment7.target=java.lang.Integer\ find_max_iterative(Node)
+comment8.params=temp
+comment8.target=int\ find_max_recursive(Node)
+comment9.params=head
+comment9.target=java.lang.Integer\ find_min_iterative(Node)
+numComments=12
